@@ -1,0 +1,125 @@
+body
+{
+    background-color: aquamarine;
+    border-style: double;
+    padding-bottom: 110px;
+}
+h1
+{
+   text-align: center;
+    font-style:italic ;
+    font-weight: lighter;
+
+}
+h2
+{
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+.image 
+{
+  display: flex;
+  justify-content: space-around;
+  width: auto;
+  margin-top: 20px;
+  border: blue;
+}
+.file
+{
+    display: flex;
+    padding: 1rem;
+    margin-left: 40%;
+
+}
+.image img
+{
+    border: 1px dashed blue;
+}
+.allbox
+{
+    border: 2px groove black;
+    border-radius: 20px;
+    margin: 20px auto;
+    width: 90%;
+    padding: 2%;
+    background-color: cadetblue;
+}
+.list
+{
+    display: flex;
+    justify-content: center;
+    font-style:unset;
+    font-size: 100%;
+
+}
+p
+{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, serif;
+}
+.secborder
+{
+    background-color: gray;
+    border: 2px groove black ;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;          
+}
+.signup
+{
+    display: flex;  
+    justify-content: center;
+    justify-content: space-around;
+    padding: 1px;
+    margin: auto;
+    
+}
+.signup2
+{
+    display: block;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    border: 2px groove black;
+    border-radius: 5px;
+    
+}
+.p
+{
+    color: aliceblue;
+    font-size: 110%;
+    text-align: center;
+}
+.registor
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px groove black;
+    border-radius: 5px;
+}
+.g-recaptcha
+{
+    display: block;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.submit
+{
+    display: block;
+    margin-left: 46%;
+    margin-top: 3%;
+    border: 2px groove black;
+    border-radius: 5px;
+}
+.redcircle
+{
+    background-color: red;
+}
